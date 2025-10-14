@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI%2FML+Learner)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=Sambit-Kumar-Mohanty-26&color=blue&label=Profile Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sambit-Kumar-Mohanty-26&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 
 ---
 
