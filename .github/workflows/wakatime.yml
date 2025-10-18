@@ -1,9 +1,14 @@
-name: WakaTime Stats
+name: Update WakaTime Stats
 
 on:
   schedule:
     - cron: '0 6 * * *'   # runs every day at 6 AM UTC
   workflow_dispatch:        # allow manual trigger
+
+
+permissions:
+  contents: write
+  users: read
 
 jobs:
   update-readme:
@@ -25,3 +30,4 @@ jobs:
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
           SHOW_LOC_CHART: "False"
+          SECTION_NAME: waka
