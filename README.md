@@ -1,49 +1,130 @@
-# 👋 Hi, I'm Sambit
+<!-- Modern GitHub Profile README for Sambit Kumar Mohanty (@Sambit-Kumar-Mohanty-26) -->
+<!-- Inspired by the profile of Arun Kumar Korra -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI%2FML+Learner)](https://git.io/typing-svg)
+<!-- Header wave banner -->
+<picture>
+  <source media="(pre-fers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0E75B6,100:6DA55F&text=Sambit%20Kumar%20Mohanty&fontColor=FFFFFF&fontSize=42&fontAlign=50&section=header&fontAlignY=35&animation=fadeIn">
+  <img alt="Header banner" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:6DA55F,100:0E75B6&text=Sambit%20Kumar%20Mohanty&fontColor=FFFFFF&fontSize=42&fontAlign=50&section=header&fontAlignY=35&animation=fadeIn">
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sambit-Kumar-Mohanty-26&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<div align="center">
 
+  <!-- Animated intro -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI%2FML+Learner" alt="Typing intro" />
+
+  <br/>
+
+  <!-- Social / quick actions -->
+  <a href="https://github.com/Sambit-Kumar-Mohanty-26">
+    <img src="https://img.shields.io/github/followers/Sambit-Kumar-Mohanty-26?label=Followers&style=flat&logo=github" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sambit-Kumar-Mohanty-26&style=flat&color=0e75b6" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/sambit-kumar-mohanty-36b20234a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/SambitMohanty80">
+    <img src="https://img.shields.io/badge/X-Follow-1DA1F2?style=flat&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:sambitkumarmohanty25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+  <br/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-0E75B6?style=flat" alt="MERN Stack" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-6DA55F?style=flat" alt="AI & ML" />
+  <img src="https://img.shields.io/badge/Blockchain-F0B400?style=flat" alt="Blockchain" />
+
+</div>
 
 ---
 
-## 🧑 About Me
-- 🔭 I’m **Sambit Kumar Mohanty** — Full-Stack Developer (MERN)  
-- 🌱 Learning: AI/ML, Blockchain    
-- ⚡ Fun: I debug faster with coffee ☕
+## 👋 About Me
+- 🔭 I’m **Sambit Kumar Mohanty** — a Full-Stack Developer (MERN).
+- 🌱 Currently learning and exploring **AI/ML** and **Blockchain** technologies.
+- ⚡ Fun fact: I debug much faster with a good cup of coffee ☕.
 
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sambit-kumar-mohanty-36b20234a/)  
-[![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SambitMohanty80)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sambitkumarmohanty25@gmail.com)
+## ⚙️ Tech Stack
+<!-- Grouped for clarity -->
+- **Languages:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,graphql,r" alt="C, C++, Java, JavaScript, TypeScript, GraphQL, R" />
+  </div>
+
+- **Backend & Frameworks:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,redux,vite" alt="Node.js, Express, Next.js, React, Redux, Vite" />
+    <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+  </div>
+
+- **Frontend:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </div>
+
+- **AI/ML & Data Science:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,numpy,pandas,matplotlib,opencv" alt="Python, TensorFlow, PyTorch, Keras, Scikit-learn, NumPy, Pandas, Matplotlib, OpenCV" />
+    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" />
+  </div>
+
+- **Databases:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="MongoDB, MySQL, Firebase" />
+  </div>
+
+- **DevOps & Tools:**
+  <div>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vercel" alt="Git, GitHub, GitHub Actions, AWS, Vercel" />
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
+  </div>
 
 ---
 
-## 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## 📈 Stats & Activity
 
----
+<p align="center">
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=tokyonight">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=default" />
+  </picture>
+  <br/>
+  <!-- Top Languages -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=tokyonight">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=default" />
+  </picture>
+  <br/>
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sambit-Kumar-Mohanty-26&theme=github-dark-blue">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sambit-Kumar-Mohanty-26&theme=default" />
+  </picture>
+</p>
 
-## 📊 GitHub Stats
-![Sambit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=tokyonight)
-
----
-
+<!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
 <!-- (WakaTime action will replace this block) -->
 <!--END_SECTION:waka-->
 
+<!-- Contribution Snake (already configured with your workflow) -->
+## 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sambit-Kumar-Mohanty-26/Sambit-Kumar-Mohanty-26/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sambit-Kumar-Mohanty-26/Sambit-Kumar-Mohanty-26/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
-## 🐍 Contribution Graph (snake)
-![GitHub Snake dark](https://raw.githubusercontent.com/Sambit-Kumar-Mohanty-26/Sambit-Kumar-Mohanty-26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Snake light](https://raw.githubusercontent.com/Sambit-Kumar-Mohanty-26/Sambit-Kumar-Mohanty-26/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <b>“Code. Create. Contribute. Repeat.”</b>
+</div>
 
-
----
-
-⭐️ *“Code. Create. Contribute. Repeat.”*
+<!-- Footer wave banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0E75B6,100:6DA55F&section=footer">
+  <img alt="Footer banner" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6DA55F,100:0E75B6&section=footer">
+</picture>
