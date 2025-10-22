@@ -10,7 +10,7 @@
 <div align="center">
 
   <!-- Animated intro -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;AI%2FML+Learner" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open-Source+Enthusiast;Web-3+Learner" alt="Typing intro" />
 
   <br/>
 
