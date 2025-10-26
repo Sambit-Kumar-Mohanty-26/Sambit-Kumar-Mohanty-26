@@ -65,7 +65,7 @@
 
   - **AI/ML & Data Science:**
   <div>
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,keras,sklearn,numpy,pandas,matplotlib,opencv" alt="AI & ML Icons" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv" alt="AI & ML Icons" />
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   </div>
 
