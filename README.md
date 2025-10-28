@@ -150,23 +150,23 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.56 % 
-TypeScript               2 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-CSS                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+JavaScript               4 hrs 13 mins       █████████████░░░░░░░░░░░░   50.16 % 
+TypeScript               1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+CSS                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The-Artisans-Loom        6 hrs 9 mins        █████████████████░░░░░░░░   66.41 % 
-Cognito                  2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.50 % 
-ArtisansLoom             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-wifi-load-prediction     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+The-Artisans-Loom        6 hrs 9 mins        ██████████████████░░░░░░░   73.21 % 
+Cognito                  2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+ArtisansLoom             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+wifi-load-prediction     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 💻 Operating System: 
-Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +182,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2025 06:35:34 UTC
+ Last Updated on 28/10/2025 06:33:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
