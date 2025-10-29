@@ -150,23 +150,21 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 13 mins       █████████████░░░░░░░░░░░░   50.16 % 
-TypeScript               1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-CSS                      50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JavaScript               3 hrs 55 mins       ████████████████░░░░░░░░░   64.64 % 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+CSS                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The-Artisans-Loom        6 hrs 9 mins        ██████████████████░░░░░░░   73.21 % 
-Cognito                  2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-ArtisansLoom             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-wifi-load-prediction     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+The-Artisans-Loom        5 hrs 59 mins       █████████████████████████   98.54 % 
+wifi-load-prediction     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -182,7 +180,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2025 06:33:39 UTC
+ Last Updated on 29/10/2025 06:34:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
