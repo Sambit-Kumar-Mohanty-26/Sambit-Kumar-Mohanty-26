@@ -150,21 +150,21 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               3 hrs 35 mins       ████████████████░░░░░░░░░   63.80 % 
-CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JavaScript               2 hrs 37 mins       ████████████████░░░░░░░░░   65.85 % 
+CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The-Artisans-Loom        5 hrs 31 mins       █████████████████████████   98.42 % 
-wifi-load-prediction     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+The-Artisans-Loom        3 hrs 53 mins       ████████████████████████░   97.77 % 
+wifi-load-prediction     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +180,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2025 06:32:00 UTC
+ Last Updated on 31/10/2025 06:32:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
