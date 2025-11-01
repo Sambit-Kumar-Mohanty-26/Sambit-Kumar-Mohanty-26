@@ -107,8 +107,6 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2046%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -150,21 +148,21 @@ Sunday                   41 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               2 hrs 37 mins       ████████████████░░░░░░░░░   65.85 % 
-CSS                      29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JavaScript               1 hr 12 mins        ██████████████░░░░░░░░░░░   55.60 % 
+Other                    23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+CSS                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The-Artisans-Loom        3 hrs 53 mins       ████████████████████████░   97.77 % 
-wifi-load-prediction     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+The-Artisans-Loom        2 hrs 5 mins        ████████████████████████░   95.93 % 
+wifi-load-prediction     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 💻 Operating System: 
-Windows                  3 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +178,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 06:32:37 UTC
+ Last Updated on 01/11/2025 06:29:00 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
