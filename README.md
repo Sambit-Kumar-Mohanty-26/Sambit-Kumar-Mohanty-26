@@ -107,6 +107,8 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2055%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -148,21 +150,21 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 8 mins        ███████████████████░░░░░░   75.32 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+TypeScript               6 hrs 8 mins        ███████████████████░░░░░░   75.30 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAMARTH                  8 hrs 4 mins        █████████████████████████   99.12 % 
-SAMARTH-1                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+SAMARTH                  8 hrs 4 mins        █████████████████████████   99.09 % 
+SAMARTH-1                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  8 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,7 +180,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 06:31:01 UTC
+ Last Updated on 17/11/2025 06:34:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
