@@ -113,9 +113,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 97.1 kB Used in GitHub's Storage 
+> 📦 97.2 kB Used in GitHub's Storage 
  > 
-> 🏆 214 Contributions in the Year 2025
+> 🏆 216 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,21 +126,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                56 commits          ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-🌆 Daytime                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-🌃 Evening                96 commits          ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌙 Night                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌞 Morning                57 commits          ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌆 Daytime                40 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+🌃 Evening                97 commits          ██████████░░░░░░░░░░░░░░░   40.59 % 
+🌙 Night                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Wednesday                54 commits          ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Thursday                 26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 43 commits          █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Wednesday                55 commits          ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Friday                   25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Saturday                 43 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
 ```
 
 
@@ -150,21 +150,21 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 8 mins        ███████████████████░░░░░░   75.30 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-CSS                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+TypeScript               8 hrs 32 mins       ████████████████████░░░░░   80.49 % 
+JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 9 mins        █████████████████████████   100.00 % 
+VS Code                  10 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAMARTH                  8 hrs 4 mins        █████████████████████████   99.09 % 
-SAMARTH-1                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+SAMARTH                  10 hrs 32 mins      █████████████████████████   99.33 % 
+SAMARTH-1                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +180,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2025 06:32:59 UTC
+ Last Updated on 20/11/2025 06:32:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
