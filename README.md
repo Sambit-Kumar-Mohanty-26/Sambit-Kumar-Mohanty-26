@@ -150,21 +150,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 32 mins       ████████████████████░░░░░   80.49 % 
-JSON                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-CSS                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               4 hrs 58 mins       ██████████████████████░░░   88.87 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAMARTH                  10 hrs 32 mins      █████████████████████████   99.33 % 
-SAMARTH-1                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+SAMARTH                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,7 +179,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2025 06:34:10 UTC
+ Last Updated on 22/11/2025 06:30:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
