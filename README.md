@@ -150,20 +150,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 58 mins       ██████████████████████░░░   88.87 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-TSConfig                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+TypeScript               2 hrs 27 mins       ████████████████████████░   97.66 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAMARTH                  5 hrs 35 mins       █████████████████████████   100.00 % 
+SAMARTH                  2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,7 +179,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 06:30:07 UTC
+ Last Updated on 23/11/2025 06:31:09 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
