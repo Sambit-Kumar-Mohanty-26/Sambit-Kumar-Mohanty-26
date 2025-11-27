@@ -150,20 +150,16 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 27 mins       ████████████████████████░   97.66 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+TypeScript               0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAMARTH                  2 hrs 30 mins       █████████████████████████   100.00 % 
+SAMARTH                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,7 +175,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2025 06:34:35 UTC
+ Last Updated on 27/11/2025 06:35:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
