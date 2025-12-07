@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -115,7 +115,7 @@
 
 > 📦 99.1 kB Used in GitHub's Storage 
  > 
-> 🏆 222 Contributions in the Year 2025
+> 🏆 224 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -126,21 +126,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-🌆 Daytime                41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-🌃 Evening                97 commits          ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌙 Night                  46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+🌞 Morning                60 commits          ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+🌆 Daytime                41 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌃 Evening                99 commits          ██████████░░░░░░░░░░░░░░░   40.24 % 
+🌙 Night                  46 commits          █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Wednesday                55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Saturday                 47 commits          █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Monday                   29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Wednesday                55 commits          ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+Thursday                 27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Friday                   26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 49 commits          █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
 ```
 
 
@@ -150,18 +150,20 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ███████████████████████░░   93.86 % 
-CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TypeScript               8 hrs 6 mins        ███████████████████████░░   90.62 % 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                3 hrs 7 mins        ████████████████████████░   95.10 % 
-HP                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+portfolio                8 hrs 47 mins       █████████████████████████   98.20 % 
+HP                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -177,7 +179,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2025 07:44:36 UTC
+ Last Updated on 07/12/2025 06:31:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
