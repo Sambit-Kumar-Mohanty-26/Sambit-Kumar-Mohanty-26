@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2021%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.6%20million%20lines%20of%20code-blue)
 
@@ -150,22 +150,22 @@ Sunday                   42 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               8 hrs 23 mins       █████████████████████░░░░   84.71 % 
-Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               9 hrs 21 mins       █████████████████████░░░░   85.83 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-portfolio                8 hrs 50 mins       ██████████████████████░░░   89.25 % 
-Axion-Flow               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-HP                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+portfolio                8 hrs 50 mins       ████████████████████░░░░░   81.19 % 
+Axion-Flow               1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+HP                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Windows                  9 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -181,7 +181,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2025 06:36:39 UTC
+ Last Updated on 11/12/2025 06:37:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
