@@ -107,13 +107,13 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-58%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 130.0 kB Used in GitHub's Storage 
+> 📦 130.3 kB Used in GitHub's Storage 
  > 
 > 🏆 242 Contributions in the Year 2025
  > 
@@ -126,21 +126,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                66 commits          ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
-🌆 Daytime                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-🌃 Evening                108 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌞 Morning                67 commits          ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+🌆 Daytime                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+🌃 Evening                109 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
+🌙 Night                  49 commits          █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Saturday                 56 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Monday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Wednesday                57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Saturday                 57 commits          █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Sunday                   46 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 ```
 
 
@@ -150,24 +150,24 @@ Sunday                   46 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               15 hrs 41 mins      ██████████████████░░░░░░░   73.09 % 
-JavaScript               1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+TypeScript               14 hrs 35 mins      ████████████████░░░░░░░░░   62.90 % 
+JavaScript               3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-HP                       5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Secure-IPFS-Marketplace  5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Axion-Flow               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-eco-oracle               3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-portfolio                3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+eco-oracle               8 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   35.70 % 
+HP                       5 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Secure-IPFS-Marketplace  5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+Axion-Flow               4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+portfolio                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Windows                  21 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +183,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2025 06:35:28 UTC
+ Last Updated on 20/12/2025 06:36:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
