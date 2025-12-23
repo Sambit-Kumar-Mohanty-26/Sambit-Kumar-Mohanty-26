@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -115,11 +115,11 @@
 
 > 📦 131.9 kB Used in GitHub's Storage 
  > 
-> 🏆 242 Contributions in the Year 2025
+> 🏆 243 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -150,39 +150,39 @@ Sunday                   52 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               16 hrs 21 mins      ████████████████░░░░░░░░░   65.08 % 
-JavaScript               5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Bash                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-CSS                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TypeScript               16 hrs 25 mins      ████████████████░░░░░░░░░   63.46 % 
+JavaScript               6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Python                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+CSS                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 8 mins       █████████████████████████   100.00 % 
+VS Code                  25 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-eco-oracle               17 hrs 28 mins      █████████████████░░░░░░░░   69.47 % 
-HP                       4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Secure-IPFS-Marketplace  2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Axion-Flow               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+eco-oracle               19 hrs 38 mins      ███████████████████░░░░░░   75.87 % 
+HP                       4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Secure-IPFS-Marketplace  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Axion-Flow               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Windows                  25 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  25 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               6 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+JavaScript               4 repos             ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 22/12/2025 06:38:26 UTC
+ Last Updated on 23/12/2025 06:37:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
