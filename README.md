@@ -87,20 +87,20 @@
 <p align="center">
   <!-- GitHub Stats -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=tokyonight">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=tokyonight">
+    <img alt="GitHub Stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=Sambit-Kumar-Mohanty-26&show_icons=true&theme=default" />
   </picture>
   <br/>
   <!-- Top Languages -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=tokyonight">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=tokyonight">
+    <img alt="Top Languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Sambit-Kumar-Mohanty-26&layout=compact&theme=default" />
   </picture>
   <br/>
-  <!-- Streak Stats -->
+  <!-- Streak Stats (This one is working) -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Sambit-Kumar-Mohanty-26&theme=github-dark-blue">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Sambit-Kumar-Mohanty-26&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Sambit-Kumar-Mohanty-26&theme=dark&hide_border=false">
+    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Sambit-Kumar-Mohanty-26&theme=default&hide_border=false" />
   </picture>
 </p>
 
