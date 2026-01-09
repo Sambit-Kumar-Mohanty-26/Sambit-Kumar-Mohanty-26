@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -150,24 +150,23 @@ Sunday                   66 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               26 hrs 25 mins      █████████████████████░░░░   82.32 % 
-JavaScript               3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Solidity                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               25 hrs 46 mins      ████████████████████░░░░░   81.79 % 
+JavaScript               3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Solidity                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  31 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 19 hrs 14 mins      ███████████████░░░░░░░░░░   59.94 % 
-Secure-IPFS-Marketplace  4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-ResuPlex                 4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-eco-oracle               3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-HP                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+devoptic                 22 hrs 24 mins      ██████████████████░░░░░░░   71.11 % 
+Secure-IPFS-Marketplace  4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+eco-oracle               2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+ResuPlex                 1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Windows                  32 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  31 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +182,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 06:38:03 UTC
+ Last Updated on 09/01/2026 06:37:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
