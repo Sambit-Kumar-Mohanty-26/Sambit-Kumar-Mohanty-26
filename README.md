@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-212%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.38%20million%20lines%20of%20code-blue?style=flat)
 
@@ -121,7 +121,7 @@
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -150,24 +150,24 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               19 hrs 49 mins      ███████████████████░░░░░░   76.69 % 
-JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               15 hrs 50 mins      ██████████████████░░░░░░░   73.36 % 
+JavaScript               3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Bash                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 35 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 17 hrs 18 mins      █████████████████░░░░░░░░   66.94 % 
-Secure-IPFS-Marketplace  3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-qurato-Sambit            2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-eco-oracle               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Aadhar-Pulse             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+devoptic                 15 hrs 18 mins      ██████████████████░░░░░░░   70.89 % 
+qurato-Sambit            2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Secure-IPFS-Marketplace  1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+eco-oracle               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Aadhar-Pulse             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Windows                  25 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +183,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2026 06:39:09 UTC
+ Last Updated on 23/01/2026 06:38:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
