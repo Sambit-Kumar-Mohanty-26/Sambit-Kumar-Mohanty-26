@@ -107,40 +107,40 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2042%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.40%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 222.3 kB Used in GitHub's Storage 
+> 📦 222.4 kB Used in GitHub's Storage 
  > 
-> 🏆 62 Contributions in the Year 2026
+> 🏆 64 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-🌆 Daytime                97 commits          ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-🌃 Evening                169 commits         ██████████░░░░░░░░░░░░░░░   40.14 % 
-🌙 Night                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+🌞 Morning                98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+🌆 Daytime                97 commits          ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+🌃 Evening                170 commits         ██████████░░░░░░░░░░░░░░░   40.28 % 
+🌙 Night                  57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Wednesday                98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 80 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-Sunday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Monday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Tuesday                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Wednesday                98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Thursday                 45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Friday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Saturday                 81 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Sunday                   74 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 ```
 
 
@@ -150,40 +150,40 @@ Sunday                   74 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               14 hrs 57 mins      ██████████████████░░░░░░░   70.72 % 
-JavaScript               3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               13 hrs 19 mins      ██████████████████░░░░░░░   71.22 % 
+JavaScript               3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 15 hrs 35 mins      ██████████████████░░░░░░░   73.65 % 
-qurato-Sambit            2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-eco-oracle               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-DevOptic-1               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Aadhar-Pulse             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+devoptic                 14 hrs 11 mins      ███████████████████░░░░░░   75.93 % 
+qurato-Sambit            1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+eco-oracle               1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+DevOptic-1               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Aadhar-Pulse             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 💻 Operating System: 
-Windows                  21 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  18 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TypeScript               10 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 24/01/2026 06:35:19 UTC
+ Last Updated on 25/01/2026 06:36:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
