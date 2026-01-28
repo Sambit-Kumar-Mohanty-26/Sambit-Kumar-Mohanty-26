@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -150,24 +150,24 @@ Sunday                   77 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 39 mins       ████████████████░░░░░░░░░   65.75 % 
-JavaScript               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript               5 hrs 41 mins       ████████████████░░░░░░░░░   65.57 % 
+JavaScript               1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Other                    40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 6 hrs 11 mins       ███████████████░░░░░░░░░░   61.17 % 
-eco-oracle               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-qurato-Sambit            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-DevOptic-1               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Cortix                   37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+devoptic                 5 hrs 13 mins       ███████████████░░░░░░░░░░   60.31 % 
+Cortix                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+qurato-Sambit            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+DevOptic-1               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+portfolio                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +183,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/01/2026 06:39:36 UTC
+ Last Updated on 28/01/2026 06:40:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
