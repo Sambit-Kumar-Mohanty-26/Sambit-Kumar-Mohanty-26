@@ -107,8 +107,6 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2025%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -150,24 +148,24 @@ Sunday                   83 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 48 mins       █████████████████░░░░░░░░   69.29 % 
-Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JavaScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+TypeScript               4 hrs 55 mins       ███████████████████░░░░░░   76.16 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 3 hrs 42 mins       █████████████░░░░░░░░░░░░   53.64 % 
-Cortix                   1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-qurato-Sambit            1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-Artisans-Loom            16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-portfolio                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+devoptic                 3 hrs 51 mins       ███████████████░░░░░░░░░░   59.72 % 
+qurato-Sambit            1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Cortix                   55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Artisans-Loom            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+portfolio                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +181,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 06:53:34 UTC
+ Last Updated on 02/02/2026 07:05:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
