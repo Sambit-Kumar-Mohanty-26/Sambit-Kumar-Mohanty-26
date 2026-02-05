@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-224%20hrs%2034%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -150,24 +150,24 @@ Sunday                   83 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       ████████████████░░░░░░░░░   64.44 % 
-JavaScript               38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               3 hrs 6 mins        ████████████████░░░░░░░░░   65.40 % 
+JavaScript               38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-devoptic                 1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   40.09 % 
-qurato-Sambit            1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   37.92 % 
-Artisans-Loom            26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Cortix                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-HP                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Brakes-RNDPortal-Frontend1 hr 49 mins        ██████████░░░░░░░░░░░░░░░   38.40 % 
+devoptic                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+qurato-Sambit            39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Artisans-Loom            26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Cortix                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 💻 Operating System: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +183,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2026 06:56:35 UTC
+ Last Updated on 05/02/2026 07:02:52 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
