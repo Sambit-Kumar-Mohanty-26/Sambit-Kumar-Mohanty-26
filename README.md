@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-230%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -150,23 +150,23 @@ Sunday                   86 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       ██████████████████░░░░░░░   73.86 % 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-SSH Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               5 hrs 48 mins       ████████████████████░░░░░   81.89 % 
+CSS                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+SSH Config               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Java                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend4 hrs 23 mins       ███████████████░░░░░░░░░░   60.73 % 
-devoptic                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-HP                       44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Artisans-Loom            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Brakes-RNDPortal-Frontend4 hrs 52 mins       █████████████████░░░░░░░░   68.68 % 
+devoptic                 1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+HP                       44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Artisans-Loom            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Windows                  7 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -182,7 +182,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2026 07:08:04 UTC
+ Last Updated on 10/02/2026 07:08:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
