@@ -150,23 +150,23 @@ Sunday                   86 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 hrs 2 mins        █████████████████████░░░░   84.30 % 
-SSH Config               19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               4 hrs 18 mins       ███████████████████████░░   90.31 % 
+CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend3 hrs 15 mins       █████████████████░░░░░░░░   67.90 % 
-devoptic                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-HP                       30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Brakes-RNDPortal-Frontend3 hrs 34 mins       ███████████████████░░░░░░   74.77 % 
+devoptic                 58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+HP                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 💻 Operating System: 
-Windows                  4 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -182,7 +182,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 07:04:50 UTC
+ Last Updated on 13/02/2026 07:03:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
