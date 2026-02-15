@@ -107,40 +107,40 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.42%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 397.5 kB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2026
+> 🏆 105 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-🌆 Daytime                106 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌃 Evening                190 commits         ██████████░░░░░░░░░░░░░░░   41.13 % 
-🌙 Night                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+🌞 Morning                104 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+🌆 Daytime                107 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+🌃 Evening                190 commits         ██████████░░░░░░░░░░░░░░░   41.04 % 
+🌙 Night                  62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Wednesday                101 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Thursday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Saturday                 84 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Sunday                   86 commits          █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Monday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Wednesday                101 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+Thursday                 46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Friday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Saturday                 84 commits          █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Sunday                   87 commits          █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 ```
 
 
@@ -150,40 +150,40 @@ Sunday                   86 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               5 hrs 53 mins       ████████████████████████░   94.61 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TypeScript               6 hrs 8 mins        ███████████████████████░░   93.69 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend5 hrs 8 mins        █████████████████████░░░░   82.54 % 
-devoptic                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-HP                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Brakes-RNDPortal-Frontend5 hrs 27 mins       █████████████████████░░░░   83.39 % 
+devoptic                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+HP                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
-JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+TypeScript               11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 14/02/2026 06:50:38 UTC
+ Last Updated on 15/02/2026 06:55:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
