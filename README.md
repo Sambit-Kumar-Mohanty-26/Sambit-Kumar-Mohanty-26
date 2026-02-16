@@ -107,13 +107,13 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 397.5 kB Used in GitHub's Storage 
+> 📦 397.7 kB Used in GitHub's Storage 
  > 
 > 🏆 105 Contributions in the Year 2026
  > 
@@ -150,24 +150,23 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               6 hrs 8 mins        ███████████████████████░░   93.69 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+TypeScript               3 hrs 34 mins       ███████████████████████░░   92.42 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend5 hrs 27 mins       █████████████████████░░░░   83.39 % 
-devoptic                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-HP                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Brakes-RNDPortal-Frontend3 hrs 39 mins       ████████████████████████░   94.89 % 
+HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -183,7 +182,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2026 06:55:31 UTC
+ Last Updated on 16/02/2026 07:06:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
