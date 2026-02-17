@@ -150,23 +150,23 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 34 mins       ███████████████████████░░   92.42 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+TypeScript               3 hrs 5 mins        ███████████████████████░░   91.36 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend3 hrs 39 mins       ████████████████████████░   94.89 % 
-HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Brakes-RNDPortal-Frontend3 hrs 11 mins       ████████████████████████░   94.16 % 
+HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -182,7 +182,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2026 07:06:37 UTC
+ Last Updated on 17/02/2026 07:02:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
