@@ -150,23 +150,20 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 5 mins        ███████████████████████░░   91.36 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               2 hrs 46 mins       ███████████████████████░░   91.82 % 
+CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend3 hrs 11 mins       ████████████████████████░   94.16 % 
-HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Brakes-RNDPortal-Backend 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Brakes-RNDPortal-Frontend2 hrs 52 mins       ████████████████████████░   94.95 % 
+HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Windows                  3 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -182,7 +179,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 07:02:53 UTC
+ Last Updated on 18/02/2026 07:05:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
