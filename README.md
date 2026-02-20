@@ -150,20 +150,20 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ███████████████████████░░   91.78 % 
-CSS                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+TypeScript               2 hrs 8 mins        ███████████████████████░░   93.34 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-VS Code                  3 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend2 hrs 51 mins       ████████████████████████░   94.93 % 
-HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-portfolio                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Brakes-RNDPortal-Frontend2 hrs 8 mins        ███████████████████████░░   93.36 % 
+HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+portfolio                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Windows                  3 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,7 +179,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/02/2026 07:03:50 UTC
+ Last Updated on 20/02/2026 07:01:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
