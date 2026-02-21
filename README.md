@@ -150,20 +150,18 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 8 mins        ███████████████████████░░   93.34 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+TypeScript               10 mins             ████████████████░░░░░░░░░   62.45 % 
+Other                    6 mins              █████████░░░░░░░░░░░░░░░░   37.55 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend2 hrs 8 mins        ███████████████████████░░   93.36 % 
-HP                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-portfolio                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Brakes-RNDPortal-Frontend10 mins             ████████████████░░░░░░░░░   62.45 % 
+HP                       6 mins              █████████░░░░░░░░░░░░░░░░   37.55 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,7 +177,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 07:01:02 UTC
+ Last Updated on 21/02/2026 06:46:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
