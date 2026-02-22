@@ -150,18 +150,16 @@ Sunday                   87 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 mins             ████████████████░░░░░░░░░   62.45 % 
-Other                    6 mins              █████████░░░░░░░░░░░░░░░░   37.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Brakes-RNDPortal-Frontend10 mins             ████████████████░░░░░░░░░   62.45 % 
-HP                       6 mins              █████████░░░░░░░░░░░░░░░░   37.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -177,7 +175,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2026 06:46:37 UTC
+ Last Updated on 22/02/2026 06:52:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
