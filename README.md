@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.43%20million%20lines%20of%20code-blue?style=flat)
 
@@ -148,24 +148,6 @@ Sunday                   87 commits          █████░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               1 hr                ███████████░░░░░░░░░░░░░░   45.82 % 
-TypeScript               57 mins             ███████████░░░░░░░░░░░░░░   43.76 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 12 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-HP                       1 hr 10 mins        █████████████░░░░░░░░░░░░   53.20 % 
-Brakes-RNDPortal-Frontend43 mins             ████████░░░░░░░░░░░░░░░░░   32.46 % 
-qurato-Sambit            18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-
-💻 Operating System: 
-Windows                  2 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -181,7 +163,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 00:36:16 UTC
+ Last Updated on 24/02/2026 07:03:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
