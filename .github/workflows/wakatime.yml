@@ -21,10 +21,10 @@ jobs:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_OS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_EDITORS: "True"
+          SHOW_OS: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_EDITORS: "False"
           SHOW_LOC_CHART: "False"
           SECTION_NAME: waka
