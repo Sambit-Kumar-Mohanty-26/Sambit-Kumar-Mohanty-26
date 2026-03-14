@@ -107,7 +107,7 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -153,17 +153,17 @@ Sunday                   90 commits          █████░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            █████████████░░░░░░░░░░░░   52.00 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 13/03/2026 06:58:24 UTC
+ Last Updated on 14/03/2026 06:51:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
