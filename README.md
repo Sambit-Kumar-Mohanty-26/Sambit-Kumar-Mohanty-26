@@ -100,7 +100,7 @@
   <!-- Streak Stats (This one is working) -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=Sambit-Kumar-Mohanty-26&theme=dark&hide_border=false">
-    <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app/?user=Sambit-Kumar-Mohanty-26&theme=default&hide_border=false" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Sambit-Kumar-Mohanty-26" />
   </picture>
 </p>
 
