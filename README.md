@@ -107,9 +107,9 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%203%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.09%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -123,6 +123,33 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                390 commits         ████████░░░░░░░░░░░░░░░░░   33.14 % 
+🌆 Daytime                305 commits         ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
+🌃 Evening                336 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌙 Night                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Tuesday                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+Wednesday                221 commits         █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Thursday                 113 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Friday                   197 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 172 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Sunday                   232 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -136,7 +163,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2026 08:43:57 UTC
+ Last Updated on 13/05/2026 08:47:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
