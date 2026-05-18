@@ -107,49 +107,20 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-365%20hrs%203%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 405.9 kB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2026
+> 🏆 471 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                392 commits         ████████░░░░░░░░░░░░░░░░░   33.08 % 
-🌆 Daytime                309 commits         ███████░░░░░░░░░░░░░░░░░░   26.08 % 
-🌃 Evening                338 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌙 Night                  146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Tuesday                  82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Wednesday                222 commits         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Friday                   198 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Saturday                 175 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Sunday                   232 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -163,7 +134,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 08:24:33 UTC
+ Last Updated on 18/05/2026 10:09:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
