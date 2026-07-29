@@ -38,6 +38,15 @@
 
 ---
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile-card-dark.svg">
+    <img alt="Sambit Kumar Mohanty — system profile" src="assets/profile-card-light.svg" width="100%">
+  </picture>
+</div>
+
+---
+
 ## 👋 About Me
 - 🔭 I’m **Sambit Kumar Mohanty** — a Full-Stack Developer (MERN).
 - 🌱 Currently learning and exploring **AI/ML** and **Blockchain** technologies.
@@ -109,8 +118,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-369%20hrs%2038%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.75%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -150,31 +157,6 @@ Sunday                   333 commits         ████░░░░░░░�
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 22 hrs 12 mins (96.98%)
-
-✍️ 30,680 lines written by AI, 40 lines written by hand (99.87% AI-written)
-
-🔤 1,172,636,612 Input Tokens, 1,544,577 Output Tokens
-
-💵 $3715.59 Estimated AI Cost This Week
-
-🧠 24 AI Sessions, 189 AI Prompts
-
-Sonnet                   26,813 lines        █████████████████████░░░░   85.99 % 
-Opus                     4,102 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Gemini                   265 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📄 Detailed Prompter — average 1,217 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
