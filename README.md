@@ -58,13 +58,15 @@
 <!-- Grouped for clarity -->
 - **Languages:**
   <div>
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,graphql,r" alt="C, C++, Java, JavaScript, TypeScript, GraphQL, R" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,graphql" alt="C++, Python, JavaScript, TypeScript, Java, GraphQL" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
   </div>
 
 - **Backend & Frameworks:**
   <div>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,redux,vite" alt="Node.js, Express, Next.js, React, Redux, Vite" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,prisma" alt="Node.js, Express, Next.js, Prisma" />
     <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white" alt="WebRTC" />
   </div>
 
 - **Frontend:**
@@ -80,13 +82,12 @@
 
 - **Databases:**
   <div>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="MongoDB, MySQL, Firebase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="PostgreSQL, MySQL, MongoDB, Redis, Firebase" />
   </div>
 
 - **DevOps & Tools:**
   <div>
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,aws,vercel" alt="Git, GitHub, GitHub Actions, AWS, Vercel" />
-    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white" alt="Render" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,jenkins,aws" alt="Git, GitHub, GitHub Actions, Docker, Kubernetes, Jenkins, AWS" />
   </div>
 
 ---
