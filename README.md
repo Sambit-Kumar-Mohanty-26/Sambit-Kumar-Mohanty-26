@@ -117,8 +117,6 @@
 <!-- WakaTime Stats (already configured with your workflow) -->
 ## ⌛ WakaTime Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2023%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -133,33 +131,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                768 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-🌆 Daytime                942 commits         █████████░░░░░░░░░░░░░░░░   34.98 % 
-🌃 Evening                792 commits         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-🌙 Night                  191 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Wednesday                473 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Thursday                 363 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-Friday                   412 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Saturday                 421 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -173,7 +144,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 08:40:27 UTC
+ Last Updated on 07/08/2026 07:19:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- Contribution Snake (already configured with your workflow) -->
